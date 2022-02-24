@@ -25,7 +25,7 @@ app.get('/images', async (req, res) => {
         sgsExpertise: [
             {
                 id: 'ADAPTATION',
-                img: `./images/sgs1.jpg`
+                img: `./sgs1.jpg`
             },
             {
                 id: 'ARTWORK AND PREPRESS',
