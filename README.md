@@ -12,3 +12,8 @@ If you want to test this project, _open the React-Express directory and run the 
 "npm run start" from the terminal_. It will use __Concurrently__ to start the __Nodemon server__ and the React app.
 
 # Some screenshots
+
+![SGS-first-page](./SGS-screenshot-first.png)
+![SGS-first-page](./SGS-screenshot-second.png)
+![SGS-first-page](./SGS-screenshot-third.png)
+![SGS-first-page](./SGS-screenshot-fourth.png)
